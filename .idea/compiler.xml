@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="spbt_0707_test_java_web" target="1.5" />
+      <module name="spbt_0707_test_java_web" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

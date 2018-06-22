@@ -3,12 +3,12 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>spbt_0707_test_java_web-gid</groupId>
-	<artifactId>spbt_0707_test_java_web</artifactId>
+	<groupId>com.wisely</groupId>
+	<artifactId>ch7_7</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>spbt_0707_test_java_web</name>
+	<name>ch7_7</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>
@@ -35,6 +35,13 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>org.springframework.beans</artifactId>
+			<version>3.2.2.RELEASE</version>
+		</dependency>
+
 	</dependencies>
 	
 	<build>
